@@ -1,5 +1,9 @@
 # This App Using API https://newsapi.org 
 
+# Screenshot
+![Capture](https://user-images.githubusercontent.com/10163868/126958731-01a5acba-4b0c-435c-97e8-73d8fbaec8fb.PNG)
+
+
 ## Feature 
 - Showing Category List & Top Headlines
 - Displays a list of sources based on the selected category
